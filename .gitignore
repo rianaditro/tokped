@@ -172,3 +172,4 @@ hide/
 *.json
 *.html
 *.zip
+venv_tokped/
